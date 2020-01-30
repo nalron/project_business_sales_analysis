@@ -2,14 +2,21 @@
 ### Projet du parcours de formation Data Analyst réalisé en partenariat avec l’ENSAE-ENSAI.
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
+
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python. Pratique des bases de la **statistique descriptive** (moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée, etc.).
 
+### Les données
+Un accès à la base de données de l’entreprise vers les fichiers CSV. Voici les fichiers à votre disposition :
+ - les ventes (appelées “Transactions”);
+ - la liste des clients;
+ - la liste des produits.
 
 ### Compétences évaluées
  - Décrire un jeu de données par la statistique descriptive
  - Maîtriser les concepts statistiques fondamentaux
  - Nettoyer un jeu de données
+
 
 ## Prérequis techniques
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
