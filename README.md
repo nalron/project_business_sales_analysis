@@ -22,7 +22,7 @@ Un accès à la base de données de l’entreprise vers les fichiers CSV. Voici 
 Si vous n'avez jamais installé **Python**, alors autant installer directement la **distribution Anaconda**.
 Anaconda est donc une distribution Python, faite pour la Data Science.
 
-De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Scipy, Numpy etc… 
+De cette manière on peut installer Python et ses librairies de Data Science Pandas, Matplotlib, Seaborn, Scipy, Numpy etc… 
 Mais aussi le notebook Jupyter, qui reste incontournable et vivement recommandé!
 C'est par ici : [Anaconda](https://www.anaconda.com/download)
 
