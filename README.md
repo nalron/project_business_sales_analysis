@@ -1,5 +1,5 @@
 # Projet : Analysez les ventes de votre entreprise
-### Projet du parcours de formation Data Analyst réalisé en partenariat avec l’ENSAE-ENSAI.
+### Projet du parcours de formation Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
 
