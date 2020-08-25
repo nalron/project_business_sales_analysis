@@ -2,6 +2,8 @@
 ### Projet du parcours de formation Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
+![Lorenz](p4_graphic/lorenz_price.png)
+
 
 ## Préambule
 Pour ce projet, les données ont été manipulées en Python. Pratique des bases de la **statistique descriptive** (moyenne, médiane, variance, représentations graphiques, tests de corrélation, analyse bivariée, etc.).
