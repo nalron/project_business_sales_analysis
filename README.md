@@ -3,6 +3,10 @@
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
 ![Lorenz](p4_graphic/lorenz_price.png) | ![Scatter Plot](p4_graphic/scatterplot_panier_moyen_age_client_clusters.png)
+<tr> 
+    <td> <img src="p4_graphic/lorenz_price.png" alt="Drawing" style="width: 250px;"/> </td> 
+    <td> <img src="p4_graphic/lorenz_price.png" alt="Drawing" style="width: 250px;"/> </td> 
+    </tr> 
 
 
 ## Préambule
