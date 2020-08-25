@@ -1,5 +1,5 @@
 # Projet : Analysez les ventes de votre entreprise
-### Projet du parcours de formation Data Analyst OpenClassrooms réalisé en partenariat avec l’ENSAE-ENSAI.
+### Projet du parcours de formation Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
 
@@ -52,6 +52,4 @@ pip install scipy
 
 ## Auteur
 
-**Nalron** *(Nicolas Pasero)* - *Initial work* - [Github Nalron](https://github.com/nalron)
-
-
+**Nalron** *(Nicolas Pasero)* [Persona](https://nalron.com) - *Initial work* - [Github Nalron](https://github.com/nalron)
