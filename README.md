@@ -2,7 +2,7 @@
 ### Projet du parcours de formation Data Analyst OpenClassrooms en partenariat avec l’ENSAE-ENSAI.
 Projet d'analyse des ventes d'une entreprise de retail dans les produits culturels.
 
-![Lorenz](p4_graphic/lorenz_price.png)
+![Lorenz](p4_graphic/lorenz_price.png) | ![Scatter Plot](p4_graphic/scatterplot_panier_moyen_age_client_clusters.png)
 
 
 ## Préambule
